@@ -26,7 +26,7 @@ This Java-based Car Service Station Billing System is designed to help car servi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/car-service-station.git
+   git clone https://github.com/sourinjana/Opps-Projects.git
 
 
 
