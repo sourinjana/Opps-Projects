@@ -32,7 +32,7 @@ This Java-based Car Service Station Billing System is designed to help car servi
 
 ## Contact
 
-* If you have any questions or need further assistance, please contact Sourin Jana.
+* If you have any questions or need further assistance, please contact https://www.linkedin.com/in/sourinjana/.
 
 * Thank you for using the Car Service Station Management System! We hope it helps streamline your car service station's operations.
 
